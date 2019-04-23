@@ -39,6 +39,7 @@ namespace project
             listBox2.Items.Clear();
             listBox2.Items.Add("");
             listBox2.Items.Add("");
+            listBox1.ClearSelected();
         }
 
         private void generateBtn_Click(object sender, EventArgs e)

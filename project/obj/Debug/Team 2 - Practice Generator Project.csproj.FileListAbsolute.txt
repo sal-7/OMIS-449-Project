@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\project 3\project\bin\Debug\project.exe.config
+\\Mac\Home\Downloads\project 3\project\bin\Debug\project.exe
+\\Mac\Home\Downloads\project 3\project\bin\Debug\project.pdb
+\\Mac\Home\Downloads\project 3\project\obj\Debug\Team 2 - Practice Generator Project.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\project 3\project\obj\Debug\project.PracticeGenerator.resources
+\\Mac\Home\Downloads\project 3\project\obj\Debug\project.Properties.Resources.resources
+\\Mac\Home\Downloads\project 3\project\obj\Debug\Team 2 - Practice Generator Project.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\project 3\project\obj\Debug\Team 2 - Practice Generator Project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\project 3\project\obj\Debug\project.exe
+\\Mac\Home\Downloads\project 3\project\obj\Debug\project.pdb

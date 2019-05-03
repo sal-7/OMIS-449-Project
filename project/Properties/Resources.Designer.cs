@@ -63,9 +63,19 @@ namespace project.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap NIUVB {
+        internal static System.Drawing.Bitmap _81ae708f140f919a5ab7119ced90a47b {
             get {
-                object obj = ResourceManager.GetObject("NIUVB", resourceCulture);
+                object obj = ResourceManager.GetObject("81ae708f140f919a5ab7119ced90a47b", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap stC1VakN_400x400 {
+            get {
+                object obj = ResourceManager.GetObject("stC1VakN_400x400", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

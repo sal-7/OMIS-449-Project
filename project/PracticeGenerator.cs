@@ -39,11 +39,12 @@ namespace project
             listBox2.Items.Clear();
             listBox2.Items.Add("");
             listBox2.Items.Add("");
+            listBox1.ClearSelected();
         }
 
         private void generateBtn_Click(object sender, EventArgs e)
         {
-            DateTime time = new DateTime(1, 1, 1, 8, 0, 0); //initialize with 8 am
+            DateTime time = new DateTime(1, 1, 1, 20, 0, 0); //initialize with 8 pm
           
 
             foreach (var item in listBox1.SelectedItems)
@@ -58,12 +59,12 @@ namespace project
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+           
         }
 
         private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+           
         }
 
         private void label2_Click(object sender, EventArgs e)

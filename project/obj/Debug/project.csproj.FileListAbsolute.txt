@@ -1,20 +1,10 @@
-\\Mac\Home\Desktop\449 pro\project\project\bin\Debug\project.exe.config
-\\Mac\Home\Desktop\449 pro\project\project\bin\Debug\project.exe
-\\Mac\Home\Desktop\449 pro\project\project\bin\Debug\project.pdb
-\\Mac\Home\Desktop\449 pro\project\project\obj\Debug\project.csprojAssemblyReference.cache
-\\Mac\Home\Desktop\449 pro\project\project\obj\Debug\project.PracticeGenerator.resources
-\\Mac\Home\Desktop\449 pro\project\project\obj\Debug\project.Properties.Resources.resources
-\\Mac\Home\Desktop\449 pro\project\project\obj\Debug\project.csproj.GenerateResource.cache
-\\Mac\Home\Desktop\449 pro\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
-\\Mac\Home\Desktop\449 pro\project\project\obj\Debug\project.exe
-\\Mac\Home\Desktop\449 pro\project\project\obj\Debug\project.pdb
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\bin\Debug\project.exe.config
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\bin\Debug\project.exe
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\bin\Debug\project.pdb
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.csprojAssemblyReference.cache
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.PracticeGenerator.resources
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.Properties.Resources.resources
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.csproj.GenerateResource.cache
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.exe
-C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.pdb
+C:\Users\imran\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\imran\source\repos\project\project\bin\Debug\project.exe
+C:\Users\imran\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\imran\source\repos\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\imran\source\repos\project\project\obj\Debug\project.PracticeGenerator.resources
+C:\Users\imran\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\imran\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\imran\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\imran\source\repos\project\project\obj\Debug\project.exe
+C:\Users\imran\source\repos\project\project\obj\Debug\project.pdb

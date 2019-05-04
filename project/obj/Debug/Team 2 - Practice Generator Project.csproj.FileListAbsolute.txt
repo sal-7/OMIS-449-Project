@@ -8,3 +8,13 @@
 \\Mac\Home\Downloads\project 3\project\obj\Debug\Team 2 - Practice Generator Project.csproj.CoreCompileInputs.cache
 \\Mac\Home\Downloads\project 3\project\obj\Debug\project.exe
 \\Mac\Home\Downloads\project 3\project\obj\Debug\project.pdb
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\bin\Debug\project.exe.config
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\bin\Debug\project.exe
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\bin\Debug\project.pdb
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\Team 2 - Practice Generator Project.csprojAssemblyReference.cache
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.PracticeGenerator.resources
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\Team 2 - Practice Generator Project.csproj.GenerateResource.cache
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\Team 2 - Practice Generator Project.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.exe
+C:\Users\Christopher\Documents\GitHub\OMIS-449-Project\project\obj\Debug\project.pdb

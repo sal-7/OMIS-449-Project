@@ -71,6 +71,9 @@ namespace project
             listBox2.Items.Clear();
             listBox2.Items.Add("Practice Schedule");
             listBox2.Items.Add("");
+            listBox1.ClearSelected();
+            listBox3.ClearSelected();
+            listBox4.ClearSelected();
         }
 
         private void generateBtn_Click(object sender, EventArgs e)
